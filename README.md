@@ -1,3 +1,7 @@
+Contest : METU 25. National Programming Contest
+[Contest Organizators](https://cclub.metu.edu.tr)
+
+
 Given Time: 36h
 
 Team members:
