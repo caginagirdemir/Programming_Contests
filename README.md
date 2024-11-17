@@ -1,6 +1,7 @@
 Contest : METU 25. National Programming Contest
 [Contest Organizators](https://cclub.metu.edu.tr)
 
+Questions and Our Answers in Metu_25 directory.
 
 Given Time: 36h
 
